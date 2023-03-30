@@ -9,5 +9,5 @@ Notebook contents:
 - Python functions for Kozak sequence extraction
 - Analysis of Kozak sequences in Aspergillus oryzae
 
-Conclusion and future directions
-Please feel free to use and modify this notebook for your own research purposes. If you have any questions or comments, please don't hesitate to reach out.
+  Conclusion and future directions
+  Please feel free to use and modify this notebook for your own research purposes. If you have any questions or comments, please don't hesitate to reach out.
