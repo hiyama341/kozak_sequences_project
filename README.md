@@ -6,7 +6,10 @@ In this notebook, we provide an analysis of how to extract Kozak sequences using
 
 Notebooks contents:
 
-- Python functions for Kozak sequence extraction and analysis of Kozak sequences in Aspergillus oryzae, niger, nidulans - - [Link to Notebook analysis ofAspergillus oryzae ](./00_Retrieve_kozak_seqs_from_genomes_ASPERGILLUS_ORYZAE.ipynb) - [Link to Notebook analysis ofAspergillus niger ](./00_Retrieve_kozak_seqs_from_genomes_ASPERGILLUS_NIGER.ipynb) - [Link to Notebook analysis ofAspergillus nidulans ](./00_Retrieve_kozak_seqs_from_genomes_ASPERGILLUS_NIDULANS.ipynb)
+- Python functions for Kozak sequence extraction and analysis of Kozak sequences in Aspergillus oryzae, niger, nidulans
+- [Link to Notebook analysis ofAspergillus oryzae ](notebooks/00_Retrieve_kozak_seqs_from_genomes_ASPERGILLUS_ORYZAE.ipynb)
+- [Link to Notebook analysis ofAspergillus niger ](notebooks/00_Retrieve_kozak_seqs_from_genomes_ASPERGILLUS_NIGER.ipynb)
+- [Link to Notebook analysis ofAspergillus nidulans ](notebooks/00_Retrieve_kozak_seqs_from_genomes_ASPERGILLUS_NIDULANS.ipynb)
 - Notebook on microhomology (We have seen problems in regards to this when transforming these organisms)
 - A notebook on how to make primers for a Kozak library.
 
